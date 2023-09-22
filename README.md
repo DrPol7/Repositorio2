@@ -37,4 +37,4 @@ kjshdfjkshfkjshdfkjhsfjkshdfkjshdfdfskjsfdhj sdhj sfdhs fdh  sh sj s fdkk shk sf
 ```
 
 [Link](https://www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
-¡[Links de descarga](https://github.com/DrPol7/Repositorio2/blob/main/LinksDeDescarga.jpg "LINKS LINKS LINKS")
+![LINKS de descarga](https://github.com/DrPol7/Repositorio2/blob/main/LinksDeDescarga.jpg "LINKS LINKS LINKS")
